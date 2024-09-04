@@ -1,0 +1,26 @@
+.contact1{
+  /*height: 395px;*/
+  height: 100vh;	
+ /* background-color: lightgrey;*/
+  /*display: flex; */
+  margin-top: 32px;
+  padding: 9px;
+  position: relative;
+  overflow: hidden;
+ /* border-radius: 12px;*/
+}
+.contact1::after{
+	content: "";
+	background-image: url('img/home.jpg'); 
+	position: absolute;		
+	top: 0;
+	width: 100%;
+	height: inherit;
+	opacity: 0.20;
+	border-radius:12px ;
+	z-index: -1;
+}
+.contact-form{
+	
+}
+
