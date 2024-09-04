@@ -1,2 +1,2 @@
 # Blog_website
-You can read blog here 
+in this website user can read blogs 
